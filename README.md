@@ -62,6 +62,9 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
 
 ###
 
-<img src="https://raw.githubusercontent.com/Grandlhord/Grandlhord/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <!-- This is a simple snake animation using GitHub Actions -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
