@@ -16,11 +16,11 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
   <!-- Using different stat card options -->
   
   <!-- Option 1: Compact stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Grandlhord&show_icons=true&theme=dark&hide_border=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandlhord&layout=compact&theme=dark&hide_border=true" height="165" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-gbafa&show_icons=true&theme=dark&hide_border=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gbafa&layout=compact&theme=dark&hide_border=true" height="165" alt="languages" />
   
   <!-- Alternative if above doesn't work -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grandlhord&theme=dark&hide_border=true" height="165" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gbafa&theme=dark&hide_border=true" height="165" alt="streak stats" />
 </div>
 
 ###
@@ -83,5 +83,5 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grandlhord&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-gbafa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
