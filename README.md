@@ -15,11 +15,11 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
 <div align="center">
   <!-- Using different stat card options -->
   
-  <!-- Option 1: Compact stats -->
+  
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dev-gbafa&show_icons=true&theme=dark&hide_border=true" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gbafa&layout=compact&theme=dark&hide_border=true" height="165" alt="languages" /> -->
   
-  <!-- Alternative if above doesn't work -->
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gbafa&theme=dark&hide_border=true" height="165" alt="streak stats" />
 </div>
 
