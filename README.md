@@ -16,9 +16,8 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
   <!-- Using different stat card options -->
   
   
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=dev-gbafa&show_icons=true&theme=dark&hide_border=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gbafa&layout=compact&theme=dark&hide_border=true" height="165" alt="languages" /> -->
-  
+
+
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-gbafa&theme=dark&hide_border=true" height="165" alt="streak stats" />
 </div>
