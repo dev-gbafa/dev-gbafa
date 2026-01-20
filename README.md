@@ -72,8 +72,8 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
   <!-- Snake animation that should work -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
-  <!-- Alternative snake (choose one) -->
-  <!-- <img src="https://raw.githubusercontent.com/Grandlhord/Grandlhord/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" height="200" /> -->
+  
+
 </div>
 
 ###
