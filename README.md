@@ -13,7 +13,6 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
 ###
 
 <div align="center">
-  <!-- Using different stat card options -->
   
   
 
