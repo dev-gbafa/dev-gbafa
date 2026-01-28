@@ -77,7 +77,4 @@ From modern web apps to high-performance mobile solutions — I turn ideas into 
 
 ###
 
-<!-- <div align="center">
-  Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-gbafa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div> -->
+
