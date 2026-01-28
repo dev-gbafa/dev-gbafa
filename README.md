@@ -1,6 +1,6 @@
 <h2 align="center">
 Hi 👋, I'm <strong>Wisdom</strong><br><br>
-🚀 A passionate Software Developer (Web & Mobile)
+🚀 A passionate Software Developer.
 </h2>
 
 ###
